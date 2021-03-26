@@ -1,0 +1,4 @@
+end-date,entry-date,planning-permission-status,start-date,slug
+,2021-02-04,not-permissioned,2021-02-04,/planning-permission-status/not-permissioned
+,2021-02-04,pending-decision,2021-02-04,/planning-permission-status/pending-decision
+,2021-02-04,permissioned,2021-02-04,/planning-permission-status/permissioned
