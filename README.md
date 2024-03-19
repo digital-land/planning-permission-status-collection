@@ -1,4 +1,4 @@
-# Planning Permission Status collection
+# Planning Permission Status collection ⚠️ Centralised
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/planning-permission-status/blob/master/LICENSE)
 
